@@ -2,9 +2,9 @@ Hey I'm Chaitanyya (Chai) -
 
 *Software Correctness · Formal Verification · Reliable Systems*
 
-I am a software engineer and researcher focused on the intersection of formal methods, software reliability, and LLM observability. My work is driven by a central question: how do we build systems whose correctness can be demonstrated, not merely assumed?
+I am a software engineer and researcher focused on the intersection of formal methods, software reliability, and LLM observability. My work is driven by a central question: how do we build systems whose correctness can be demonstrated, not just assumed?
 
-I am particularly interested in verification techniques for non-deterministic systems, type-theoretic approaches to software safety, and the emerging challenge of holding stochastic models to rigorous behavioral specifications.
+I am particularly interested in verification techniques for non-deterministic systems, software safety, and the emerging challenge of holding stochastic models to rigorous behavioral specifications.
 
 ----
 
